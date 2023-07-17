@@ -1,4 +1,4 @@
-<h1>Taller 9 Luisa Fernanda Herrera Chávez </h1>
+<h1>Taller 9 Santiago Palacios Triana</h1>
 
 <h2> Información</h2>
 <p>Curso: full Stack Basico - Grupo 1 </p>
